@@ -1,1 +1,10 @@
-"streamlitstreamlit-webrtcstreamlit-playertransformerstorchtorchaudioyt-dlpmoviepynumpy" 
+streamlit
+streamlit 
+webrtcstreamlit 
+player
+transformers
+torch
+torchaudio
+yt-dlp
+moviepy
+numpy 
