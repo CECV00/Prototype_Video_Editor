@@ -6,5 +6,5 @@ transformers
 torch
 torchaudio
 yt-dlp
-moviepy
+moviepy.editor
 numpy 
