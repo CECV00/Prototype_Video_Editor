@@ -1,9 +1,1 @@
-streamlit
-streamlit-webrtc
-streamlit-player
-transformers
-torchaudio
-moviepy
-yt-dlp
-numpy
-soundfile
+"streamlitstreamlit-webrtcstreamlit-playertransformerstorchtorchaudioyt-dlpmoviepynumpy" 
