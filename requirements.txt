@@ -2,7 +2,7 @@ streamlit
 moviepy
 imageio-ffmpeg
 ffmpeg-python
-transformers
+transformers==4.30.2
 torch
 torchaudio
 streamlit-webrtc
