@@ -3,7 +3,8 @@ import streamlit as st
 import torch
 import torchaudio
 from transformers import Wav2Vec2ForCTC, Wav2Vec2Processor
-from moviepy.editor import VideoFileClip
+#from moviepy.editor import VideoFileClip
+from moviepy.video.io.VideoFileClip import VideoFileClip
 from streamlit_webrtc import webrtc_streamer, WebRtcMode
 from streamlit_player import st_player
 import numpy as np
